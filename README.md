@@ -10,8 +10,7 @@
 </div>
 
 ### About me
-My name is Ivan Platonov. I am passionate about programming (especially back-end development) and believe it can help make life more interesting and better.
-
+My name is Ivan Platonov. I am passionate about programming and believe it can help make life more interesting and better.
 
 ### Education
 
@@ -65,17 +64,3 @@ My name is Ivan Platonov. I am passionate about programming (especially back-end
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px"/> 
 </p>
-<!--
-**Sakagam1/Sakagam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
