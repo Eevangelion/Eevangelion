@@ -18,18 +18,18 @@ My name is Ivan Platonov. I am passionate about programming and believe it can h
 ### Stats
 
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakagam1&show_icons=true&hide_border=true&theme=light">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sakagam1&theme=light&date_format=M%20j%5B%2C%20Y%5D)&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakagam1&layout=compact&hide_border=true&theme=light"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eevangelion&show_icons=true&hide_border=true&theme=light">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Eevangelion&theme=light&date_format=M%20j%5B%2C%20Y%5D)&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eevangelion&layout=compact&hide_border=true&theme=light"/>
 </p>
 
 ### Pet Projects
 <p align="center">
-  <a href="https://github.com/Sakagam1/parallel-golang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakagam1&repo=parallel-golang&hide_border=true&theme=light"/>
+  <a href="https://github.com/Eevangelion/parallel-golang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eevangelion&repo=parallel-golang&hide_border=true&theme=light"/>
   </a>
-  <a href="https://github.com/Sakagam1/Tetris">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakagam1&repo=Tetris&hide_border=true&theme=light"/>
+  <a href="https://github.com/Eevangelion/Tetris">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eevangelion&repo=Tetris&hide_border=true&theme=light"/>
   </a>
 </p>
 
