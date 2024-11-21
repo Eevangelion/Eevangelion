@@ -28,8 +28,8 @@ My name is Ivan Platonov. I am passionate about programming and believe it can h
   <a href="https://github.com/Eevangelion/parallel-golang">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eevangelion&repo=parallel-golang&hide_border=true&theme=light"/>
   </a>
-  <a href="https://github.com/Eevangelion/Tetris">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eevangelion&repo=Tetris&hide_border=true&theme=light"/>
+  <a href="https://github.com/Eevangelion/ewallet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eevangelion&repo=ewallet&hide_border=true&theme=light"/>
   </a>
 </p>
 
